@@ -1,0 +1,3 @@
+[submodule "CppND-Route-Planning-Project"]
+	path = CppND-Route-Planning-Project
+	url = https://github.com/udacity/CppND-Route-Planning-Project.git
