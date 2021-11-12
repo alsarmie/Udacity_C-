@@ -1,6 +1,9 @@
 {
   "cmake.configureOnOpen": false,
   "files.associations": {
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "iostream": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp"
   }
 }

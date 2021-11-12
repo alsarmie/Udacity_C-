@@ -5,7 +5,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/RoutePlanner/${fileBasenameNoExtension}.out",
+        "program": "${workspaceFolder}/Practice/${fileBasenameNoExtension}.out",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
