@@ -4,3 +4,9 @@
 [submodule "CppND-System-Monitor-Project-Updated"]
 	path = CppND-System-Monitor-Project-Updated
 	url = https://github.com/alsarmie/CppND-System-Monitor-Project-Updated.git
+[submodule "CppND-Memory-Management-Chatbot"]
+	path = CppND-Memory-Management-Chatbot
+	url = https://github.com/alsarmie/CppND-Memory-Management-Chatbot.git
+[submodule "CppND-Program-a-Concurrent-Traffic-Simulation"]
+	path = CppND-Program-a-Concurrent-Traffic-Simulation
+	url = https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation.git
