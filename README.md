@@ -37,7 +37,7 @@ To check the projects and their requirements, please refer to the following link
 - [CppND-Route-Planning-Project](https://github.com/alsarmie/CppND-Route-Planning-Project.git)
 - [CppND-System-Monitor](https://github.com/alsarmie/CppND-System-Monitor-Project-Updated.git)
 - [CppND-Memory-Management-Chatbot](https://github.com/alsarmie/CppND-Memory-Management-Chatbot.git)
-- [CppND-Concurrent-Traffic-Simulation](https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation.git)
+- [CppND-Concurrent-Traffic-Simulation](https://github.com/alsarmie/CppND-Program-a-Concurrent-Traffic-Simulation.git)
 
 <!-- CONTRIBUTING -->
 
