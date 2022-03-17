@@ -83,5 +83,5 @@ Udacity's Team for the awesome content!
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/alejandrosargon
+[linkedin-url]: https://linkedin.com/in/alejandrosargon
 [product-screenshot]: images/screenshot.png
