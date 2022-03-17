@@ -9,4 +9,4 @@
 	url = https://github.com/alsarmie/CppND-Memory-Management-Chatbot.git
 [submodule "CppND-Program-a-Concurrent-Traffic-Simulation"]
 	path = CppND-Program-a-Concurrent-Traffic-Simulation
-	url = https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation.git
+	url = https://github.com/alsarmie/CppND-Program-a-Concurrent-Traffic-Simulation.git
